@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.backtracking;
 
 import java.util.*;
 

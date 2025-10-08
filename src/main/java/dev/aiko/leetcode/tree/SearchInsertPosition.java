@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.tree;
 
 // https://leetcode.com/problems/search-insert-position
 public class SearchInsertPosition {

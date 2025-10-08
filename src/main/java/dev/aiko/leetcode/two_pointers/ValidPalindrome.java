@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.two_pointers;
 
 // https://leetcode.com/problems/valid-palindrome
 public class ValidPalindrome {

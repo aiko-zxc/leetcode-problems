@@ -1,6 +1,4 @@
-package dev.aiko.leetcode.common;
-
-import dev.aiko.leetcode.SameTree;
+package dev.aiko.leetcode.tree.common;
 
 public class TreeNode {
     public int val;
