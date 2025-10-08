@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.hashmap;
 
 import java.util.HashMap;
 import java.util.Map;

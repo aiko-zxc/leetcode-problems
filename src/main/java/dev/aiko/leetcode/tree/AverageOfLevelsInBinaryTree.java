@@ -1,6 +1,6 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.tree;
 
-import dev.aiko.leetcode.common.TreeNode;
+import dev.aiko.leetcode.tree.common.TreeNode;
 import java.util.*;
 
 // https://leetcode.com/problems/average-of-levels-in-binary-tree/

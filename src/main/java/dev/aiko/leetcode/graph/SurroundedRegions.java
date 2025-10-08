@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.graph;
 import java.util.*;
 
 // https://leetcode.com/problems/surrounded-regions

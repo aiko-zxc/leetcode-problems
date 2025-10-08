@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.array;
 
 // https://leetcode.com/problems/product-of-array-except-self
 public class ProductOfArrayExceptSelf {

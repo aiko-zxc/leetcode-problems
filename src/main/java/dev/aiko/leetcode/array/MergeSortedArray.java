@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.array;
 
 import java.util.ArrayList;
 import java.util.List;

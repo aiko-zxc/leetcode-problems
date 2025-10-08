@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.sliding_window;
 
 // https://leetcode.com/problems/minimum-size-subarray-sum
 public class MinimumSizeSubarraySum {

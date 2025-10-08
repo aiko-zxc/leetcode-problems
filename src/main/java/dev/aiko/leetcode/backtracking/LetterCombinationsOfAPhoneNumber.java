@@ -1,4 +1,4 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.backtracking;
 import java.util.*;
 // https://leetcode.com/problems/letter-combinations-of-a-phone-number
 public class LetterCombinationsOfAPhoneNumber {

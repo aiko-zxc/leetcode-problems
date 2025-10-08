@@ -1,6 +1,6 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.tree;
 
-import dev.aiko.leetcode.common.TreeNode;
+import dev.aiko.leetcode.tree.common.TreeNode;
 
 // https://leetcode.com/problems/same-tree
 public class SameTree {
