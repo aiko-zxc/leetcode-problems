@@ -1,6 +1,5 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.array;
 
-import dev.aiko.leetcode.array.MergeSortedArray;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

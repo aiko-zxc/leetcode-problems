@@ -1,8 +1,7 @@
-package dev.aiko.leetcode;
+package dev.aiko.leetcode.array;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import dev.aiko.leetcode.array.GasStation;
 import org.junit.jupiter.api.Test;
 
 class GasStationTest {
