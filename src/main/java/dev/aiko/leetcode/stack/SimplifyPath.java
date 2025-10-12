@@ -10,7 +10,6 @@ public class SimplifyPath {
         if (path == null || path.isEmpty()) {
             return "/";
         }
-
         Deque<String> stack = new ArrayDeque<>();
 
         for (String part : path.split("/")) {
